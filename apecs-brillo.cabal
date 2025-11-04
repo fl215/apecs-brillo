@@ -4,17 +4,17 @@ synopsis:           Simple brillo renderer for apecs
 homepage:           https://github.com/fl215/apecs-brillo
 license:            BSD3
 license-file:       LICENSE
-author:             fl215
+author:             Execute
 maintainer:         execute@erisws.com
-copyright:          MIT
-category:           Web
+copyright:          Jonas Carpay, Execute
+category:           Game engine
 build-type:         Simple
 extra-source-files:
     README.md
   , CHANGELOG.md
 cabal-version:      >=1.10
 description:
-  Apecs-gloss but instead it's for brillo.
+  apecs-gloss but instead it's for brillo.
 
 library
   hs-source-dirs:   src
